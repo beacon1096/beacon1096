@@ -2,7 +2,7 @@
  * @Author: Beacon Zhang
  * @Date: 2021-04-25 21:03:02
  * @LastEditors: Beacon Zhang
- * @LastEditTime: 2021-04-25 21:14:18
+ * @LastEditTime: 2021-04-25 21:16:13
  * @Description: Initial
 -->
 ### Hi there 👋
@@ -23,3 +23,4 @@
 - 🌱 I’m currently learning Rust & CS:APP
 - 👯 I’m looking to collaborate on ... oops too much homework to do
 - 🤔 I’m looking for help with Computer Science
+- 💊 I should have worked harder in the past...
