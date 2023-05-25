@@ -2,7 +2,7 @@
  * @Author: Beacon Zhang
  * @Date: 2021-04-25 21:03:02
  * @LastEditors: Beacon Zhang
- * @LastEditTime: 2021-04-25 21:16:13
+ * @LastEditTime: 2023-05-26 00:36:13
  * @Description: Initial
 -->
 ### Hi there 👋
@@ -19,8 +19,8 @@
 [![](https://img.shields.io/badge/typescript-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![](https://img.shields.io/badge/react-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://reactjs.org/)
 
-- 🔭 I’m currently working on CTF-Pwn and other hobbyist things
-- 🌱 I’m currently learning Rust & CS:APP
+- 🔭 I’m currently working on various hobbyist things
+- 🌱 I’m currently learning Rust
 - 👯 I’m looking to collaborate on ... oops too much homework to do
 - 🤔 I’m looking for help with Computer Science
 - 💊 I should have worked harder in the past...
